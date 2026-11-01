@@ -1,0 +1,13 @@
+const cards  = document.querySelectorAll('.g-card');
+const panels = document.querySelectorAll('.g-panel');
+
+// Show the panel that matches the selected category
+function select(key) {
+  cards.forEach(c => c.classList.toggle('on', c.dataset.key === key));
+  panels.forEach(p => p.classList.toggle('show', p.dataset.panel === key));
+}
+
+cards.forEach(c => c.addEventListener('click', () => select(c.dataset.key)));
+
+// Start with the first category open
+if (cards.length) select(cards[0].dataset.key);
