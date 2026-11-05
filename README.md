@@ -128,6 +128,10 @@ wastebank/
 - Delete `test_mail.php`
 
 ## Screenshots
+<img width="1536" height="1024" alt="WhatsApp Image 2026-11-01 at 3 16 20 PM" src="https://github.com/user-attachments/assets/d653ba8c-a812-4270-9e96-823c4aa9ef5c" />
+<img width="1536" height="1024" alt="WhatsApp Image 2026-10-12 at 4 21 55 PM" src="https://github.com/user-attachments/assets/d55ee8aa-934a-42c6-a89f-2f589abbdcc6" />
+
+
 
 Add screenshots here, for example:
 
