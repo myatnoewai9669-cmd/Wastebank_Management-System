@@ -1,5 +1,6 @@
 # Wastebank_Management-System
-# WasteBank - Smart Waste Management System
+# WasteBank - Smart Waste Management System 
+App link: wastebank1234.infinityfreeapp.com
 
 A web-based waste bank where members deposit recyclable waste, earn money and points, book pickups, and redeem rewards. Staff record deposits by scanning member QR codes, and admins manage members, pickups, and prices.
 
